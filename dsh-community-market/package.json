@@ -82,7 +82,7 @@
     "semver": "^7.7.3",
     "sharp": "0.35.5",
     "yaml": "^2.9.0",
-    "zod": "^4.4.3"
+    "zod": "^4.6.6"
   },
   "peerDependencies": {
     "@deepseek-ai/cordis": "4.0.5 || 4.0.6-alpha.1",
